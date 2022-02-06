@@ -1,7 +1,7 @@
-input = 11
+input = 200
 real = 11
 if real == input:
     print("hello!!")
 
-if real != input:
+else:
     print("who are you????")
